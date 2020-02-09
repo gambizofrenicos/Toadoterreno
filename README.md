@@ -1,4 +1,4 @@
-# Repositorio para TOADOTERRENO. Cybertech 2k20
+# Repositorio para TOADOTERRENO. Cybertech 2k20
 
 ## Incluye los siguientes directorios
 - Librerias
