@@ -2,6 +2,7 @@
 
 ## Incluye los siguientes directorios
 - Librerias
+- Pruebas
 - Siguelineas
 - Senda Arcoiris
 - Laberinto
